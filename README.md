@@ -3,7 +3,7 @@
 
 Social media app for people who can't stop talking, where gossips are shared...
 
-
+MERN stack Social media application created for learning purpose. 
 
 
 ## Tech Stack
@@ -11,12 +11,6 @@ Social media app for people who can't stop talking, where gossips are shared...
 **Client:** React, Redux, Material UI
 
 **Server:** Node, Express, MongoDB
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 ## FrontEnd Run Locally
 
